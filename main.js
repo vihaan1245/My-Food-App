@@ -1,0 +1,1 @@
+ NO_JS_REQUIRED_:P;
